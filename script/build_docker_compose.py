@@ -23,7 +23,7 @@ if __name__ == '__main__':
     ports = 26000
     ip = "192.168.10.2"
     id = 2 
-    file = open("../docker-compose.yml", "w")
+    file = open("../supplychainx/docker-compose.yml", "w")
     identifiant = 1
 
     #build heading
